@@ -1,3 +1,5 @@
+![avatar](http://baidu.com/pic/doge.png)
+
 # 1.项目初始化
 
     - gitignore:忽略push
