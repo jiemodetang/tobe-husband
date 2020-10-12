@@ -1,4 +1,4 @@
-![avatar](http://baidu.com/pic/doge.png)
+![avatar](https://pic4.zhimg.com/80/v2-0973fd26fb7d591df4985ed1090b9173_1440w.jpg)
 
 # 1.项目初始化
 
